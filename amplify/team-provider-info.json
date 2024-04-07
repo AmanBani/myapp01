@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "myapp01d44bd453": {}
+      },
+      "api": {
+        "myapp01": {}
+      },
+      "storage": {
+        "s37ae5fcb9": {}
       }
     }
   }
